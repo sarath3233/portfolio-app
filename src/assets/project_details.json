@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Simplexam",
+        "description": "Simplexam is medical-legal practice management software",
+        "technologies": "Angular 16, Angular Material, Jquery, Bootstrap, Node js, Jest & Protractor(e2e)"
+    },
+    {
+        "name": "Learning Application",
+        "description": "Amesite is a learning web application based on USA",
+        "technologies": "Angular 8, Jquery, Bootstrap & Node js"
+    },
+    {
+        "name": "Yantra 24 x7",
+        "description": "Yantra 24x7 is an Industrial IoT solution.",
+        "technologies": "Angular 4, Bootstrap & Node js"
+    },
+    {
+        "name": "OpenPro Inc, USA",
+        "description": "OpenPro is an open source ERP Solution.",
+        "technologies": "Angular 2 & ionic"
+    },
+    {
+        "name": "Simplexam",
+        "description": "Simplexam is medical-legal practice management software",
+        "technologies": "Angular 16, Angular Material, Jquery, Bootstrap, Node js, Jest & Protractor(e2e)"
+    },
+    {
+        "name": "Simplexam",
+        "description": "Simplexam is medical-legal practice management software",
+        "technologies": "Angular 16, Angular Material, Jquery, Bootstrap, Node js, Jest & Protractor(e2e)"
+    }
+]
