@@ -1,4 +1,4 @@
-    <section class="bg-light pt-5 pb-5 shadow-sm">
+    <section class="bg-light pt-5 pb-5 shadow-sm mb-4">
       <div class="container">
         <div class="row pt-5">
           <div class="col-12">
@@ -6,8 +6,8 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-lg-4 mb-3 d-flex align-items-stretch" *ngFor="let project of projects">
-            <div class="card bg-secondary text-white rounded">
+          <div class="col-lg-4 mb-3 d-flex" *ngFor="let project of projects">
+            <div class="card bg-secondary text-white rounded w-100 h-100">
               <div class="card-body d-flex flex-column">
                 <h2 class="card-title">{{project?.name}}</h2>
                 <h5 class="card-title">{{project?.description}}</h5>
