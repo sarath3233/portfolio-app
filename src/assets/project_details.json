@@ -20,13 +20,13 @@
         "technologies": "Angular 2 & ionic"
     },
     {
-        "name": "Simplexam",
-        "description": "Simplexam is medical-legal practice management software",
-        "technologies": "Angular 16, Angular Material, Jquery, Bootstrap, Node js, Jest & Protractor(e2e)"
+        "name": "Rotary",
+        "description": "Web developed Rotary Application for Coimbatore zone Rotarians",
+        "technologies": "Angular 2, Angular Material & Node js."
     },
     {
-        "name": "Simplexam",
-        "description": "Simplexam is medical-legal practice management software",
-        "technologies": "Angular 16, Angular Material, Jquery, Bootstrap, Node js, Jest & Protractor(e2e)"
+        "name": "Habitos",
+        "description": "Habitos is a food catering services company for corporateclients",
+        "technologies": "Angular js, Jquery & Bootstrap"
     }
 ]

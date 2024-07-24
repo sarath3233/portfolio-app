@@ -19,6 +19,7 @@ export class PortfolioComponent {
   }
 
   ngOnInit() {
+    //Get project details
     this.projectService.getProjects().subscribe(projects => {
       console.log(projects)
       this.projects = projects;

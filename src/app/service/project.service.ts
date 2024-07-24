@@ -9,6 +9,7 @@ export class ProjectService {
   jsonPath: string = './assets/project_details.json'
   constructor(private httpClient: HttpClient) { }
 
+  //Project details get from Json file
   public getProjects(): Observable<any> {
     return this.httpClient.get(this.jsonPath);
   }
