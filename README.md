@@ -8,14 +8,28 @@ Install Node.js which includes Node Package Manager
 
 npm install -g @angular/cli@16
 
-# Get started
 
-1. Download or Clone the repo
+## Get started
+
+### Clone the repo
+
+```shell
 git clone https://github.com/sarath3233/portfolio-app.git
-    cd portfolio-app
+cd portfolio-app
+```
 
-2. Run npm install inside the downloaded/cloned folder:
-    npm install
+### Install npm packages
 
-3. Start the dev server by running the command below. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
-    ng serve
+Install the `npm` packages described in the `package.json` and verify that it works:
+
+```shell
+npm install
+```
+
+Start the dev server by running the command below. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
+
+```shell
+ng serve
+```
+
+Shut it down manually with `Ctrl-C`.
